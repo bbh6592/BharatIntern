@@ -1,0 +1,11 @@
+1. Check the close price distributed.
+2. Use mixmaxscaler to reduce size, variablity of the vlaues in the data.
+3. Perform train test split with 65% of the data for training and rest is test data.
+4. Function to create a dataset to predict 1 days stock price based on last 100 days.
+   So the time step is 100.
+5. create_dataset is to specify x and y value.
+6. Display the shape of dataframes.
+7. Using stack LSTM model 3 times and check the loss.
+8. After being done with the LSTM model fit the data in it.
+9. Check the accuracy for prediction.
+10. Function to predict the future values and plot it using graph.
